@@ -1,3 +1,3 @@
-# Final year project
+# Final year project (Android Studio)
 
-A mobile app for local library 
+📚 An Android app for local library that supports a login system, Google Maps, and a catalog of books available for borrowing.
